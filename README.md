@@ -42,6 +42,3 @@ The model predicts mental health risk with good accuracy and provides insights u
 This is the user interface of the Mental Health Risk Prediction system where users can input their details and get predictions.
 
 ![App Screenshot](My_Project_ss.png)
-
-## 🚀 Demo Video 
-[Click here to use the app](https://youtu.be/DEz7kyL1ENA)
